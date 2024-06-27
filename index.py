@@ -1,6 +1,7 @@
-from proj5 import proj5
-from proj2 import proj2
-from proj4 import proj4
+from word_frequency import word_frequency
+from character_frequency import character_frequency
+from statistics import statistics
+
 
 def select_file():
     print("Select the file :")
